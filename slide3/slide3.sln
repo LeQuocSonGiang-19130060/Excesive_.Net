@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slide3", "slide3\slide3.csproj", "{0845B785-D62C-464E-9284-1283E655938A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0845B785-D62C-464E-9284-1283E655938A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0845B785-D62C-464E-9284-1283E655938A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0845B785-D62C-464E-9284-1283E655938A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0845B785-D62C-464E-9284-1283E655938A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D7415A-AD67-4F03-B9A7-81D5202BA672}
+	EndGlobalSection
+EndGlobal

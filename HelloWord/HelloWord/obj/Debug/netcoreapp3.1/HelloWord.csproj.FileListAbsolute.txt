@@ -1,0 +1,14 @@
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.exe
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.deps.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.runtimeconfig.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.runtimeconfig.dev.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.dll
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.pdb
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.csproj.AssemblyReference.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.AssemblyInfoInputs.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.AssemblyInfo.cs
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.csproj.CoreCompileInputs.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.dll
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.pdb
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.genruntimeconfig.cache

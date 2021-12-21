@@ -1,0 +1,14 @@
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\bin\Debug\netcoreapp3.1\Slide2.exe
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\bin\Debug\netcoreapp3.1\Slide2.deps.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\bin\Debug\netcoreapp3.1\Slide2.runtimeconfig.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\bin\Debug\netcoreapp3.1\Slide2.runtimeconfig.dev.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\bin\Debug\netcoreapp3.1\Slide2.dll
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\bin\Debug\netcoreapp3.1\Slide2.pdb
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.csproj.AssemblyReference.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.AssemblyInfoInputs.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.AssemblyInfo.cs
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.csproj.CoreCompileInputs.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.dll
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.pdb
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\Slide2\Slide2\obj\Debug\netcoreapp3.1\Slide2.genruntimeconfig.cache

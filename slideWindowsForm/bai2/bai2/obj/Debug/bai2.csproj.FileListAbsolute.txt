@@ -1,0 +1,10 @@
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\bin\Debug\bai2.exe.config
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\bin\Debug\bai2.exe
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\bin\Debug\bai2.pdb
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\obj\Debug\bai2.Form1.resources
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\obj\Debug\bai2.Properties.Resources.resources
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\obj\Debug\bai2.exe
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slideWindowsForm\bai2\bai2\obj\Debug\bai2.pdb

@@ -1,0 +1,14 @@
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\bin\Debug\netcoreapp3.1\slide3.exe
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\bin\Debug\netcoreapp3.1\slide3.deps.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\bin\Debug\netcoreapp3.1\slide3.runtimeconfig.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\bin\Debug\netcoreapp3.1\slide3.runtimeconfig.dev.json
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\bin\Debug\netcoreapp3.1\slide3.dll
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\bin\Debug\netcoreapp3.1\slide3.pdb
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.AssemblyInfoInputs.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.AssemblyInfo.cs
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.csproj.CoreCompileInputs.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.dll
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.pdb
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.genruntimeconfig.cache
+E:\Tai Lieu Cac Mon Hoc\.NET\Work_space\slide3\slide3\obj\Debug\netcoreapp3.1\slide3.csproj.AssemblyReference.cache
